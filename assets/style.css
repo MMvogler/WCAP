@@ -1,0 +1,33 @@
+.navbar {
+    background-color: royalblue!important;
+}
+
+.title {
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.navbar-end {
+    margin-top: 80px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* color: white; */
+    /* text-align: center; */
+    background-color: royalblue;
+    padding: 0px;
+  }
+
+  .imageFooter {
+      width: 60px;
+      height: 60px;
+      margin-left: 500px;
+  }
