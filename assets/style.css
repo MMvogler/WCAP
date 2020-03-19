@@ -27,7 +27,7 @@
     height: 100%;
 }
 
-/* The hero image */
+/* The hero image for index */
 .hero-image {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
@@ -42,6 +42,7 @@
     background-size: cover;
     position: relative;
 }
+
 
 .aboutImage {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -66,6 +67,19 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+}
+
+.profile {
+    margin-left: 40px;
+}
+
+.sitesBody {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.cardTitle {
+    text-align: center;
 }
 
 /* .footer {
