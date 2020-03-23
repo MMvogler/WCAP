@@ -78,10 +78,13 @@
     margin-right: 40px;
 }
 
-.cardTitle {
+.cardTitles {
     text-align: center;
 }
 
+.cardMainTitle {
+    margin-left: 2px;
+}
 /* .footer {
     position: fixed;
     left: 0;
