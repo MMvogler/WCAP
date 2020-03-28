@@ -85,6 +85,12 @@
 .cardMainTitle {
     margin-left: 2px;
 }
+
+.zooImage {
+    width: 300px;
+    height: 100px;
+    margin-left: 350px;
+}
 /* .footer {
     position: fixed;
     left: 0;
